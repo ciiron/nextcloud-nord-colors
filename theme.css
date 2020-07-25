@@ -1,5 +1,5 @@
 :root {
-  --color-main-text:  #e5e9f0 !important;
+  --color-main-text:  #eceff4 !important;
   --color-main-background: #2e3440 !important;
   --color-main-background-translucent: #2e3440ff !important;
   --color-background-hover: #4c566a !important;
@@ -16,7 +16,7 @@
   --color-error: #bf616a !important;
   --color-warning: #ebcb8b !important;
   --color-success: #a3be8c !important;
-  --color-text-maxcontrast: #767676 !important;
+  --color-text-maxcontrast: #d8dee9 !important;
   --color-text-light: #e5e9f0 !important;
   --color-text-lighter: #eceff4 !important;
   --color-loading-light: #81a1c1 !important;
