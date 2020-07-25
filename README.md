@@ -5,5 +5,6 @@
 2. Copy the contents of [theme.css](https://raw.githubusercontent.com/ciiron/nextcloud-nord-colors/master/theme.css) into the custom CSS box at ***$NEXTCLOUDURL*/settings/admin/theming**
 
 ## Screenshots
-
+![](../master/screenshots/files.png)
+![](../master/screenshots/settings.png)
 If a color is broken, feel free to report it via github issue or make a pull request.  ([Nord theme](https://www.nordtheme.com/))
